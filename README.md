@@ -6,3 +6,7 @@ For this project, we trained both the Naive Bayes model (the generative probabil
 
 Confusion Matrix of Naive Bayes Model and LSTM Model:
 <img width="817" alt="Confusion Matrix of Naive Bayes Model and LSTM Model for Real-world Data" src="https://user-images.githubusercontent.com/89174034/220716578-d9a72823-6e71-44b3-8df7-7072f6abcf88.png">
+
+
+Accuracy of LSTM Model for Real-world Data:
+<img width="570" alt="Accuracy of LSTM Model for Real-world Data" src="https://user-images.githubusercontent.com/89174034/220716839-1c88967b-7f4d-45e2-9a51-d8ab964cf502.png">
