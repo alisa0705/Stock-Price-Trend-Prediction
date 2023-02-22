@@ -13,5 +13,7 @@ Accuracy of LSTM Model for Real-world Data:
 
 ### References
 C.D. Manning, P. Raghavan and H. Schuetze (2008). Introduction to Information Retrieval. Cambridge University Press, pp. 234-265. Retrieved Dec 11, 2022, from https://nlp.stanford.edu/IR-book/html/htmledition/naive-bayes-text-classification-1.html
+
 Scikit-learn: Machine Learning in Python, Pedregosa, et al., JMLR 12, pp. 2825-2830, 2011.
+
 Sun, J. (2016, August). Daily News for Stock Market Prediction. Kaggle. Retrieved November 16, 2022, from https://www.kaggle.com/aaron7sun/stocknews
